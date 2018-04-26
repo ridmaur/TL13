@@ -1,0 +1,102 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "adobe summit lab",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.MoreIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateSettingsIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NextIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollLeftIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollRightIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "MyAdobeLoginIntent",
+                    "slots": [],
+                    "samples": [
+                        "get access token",
+                        "login to adobe",
+                        "get access to adobe"
+                    ]
+                },
+                {
+                    "name": "MyAdobeProfileInfoIntent",
+                    "slots": [
+                        {
+                            "name": "Customerid",
+                            "type": "AMAZON.SearchQuery"
+                        }
+                    ],
+                    "samples": [
+                        "get profile information for {Customerid}",
+                        "my id is {Customerid}",
+                        "get my profile information {Customerid}"
+                    ]
+                },
+                {
+                    "name": "MyAdobeSendSMSIntent",
+                    "slots": [
+                        {
+                            "name": "TelephoneNumber",
+                            "type": "AMAZON.SearchQuery"
+                        }
+                    ],
+                    "samples": [
+                        "send sms to {TelephoneNumber}",
+                        "send message to {TelephoneNumber}"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
