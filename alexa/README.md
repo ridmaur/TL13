@@ -80,7 +80,7 @@ To test your skill, use the Alexa simulator. To do this:
 1. Click on **Test** in the toolbar. When prompted to allow to use the microphone of the computer, please do not allow this as this will not work with so many people in the room :smile:.
 2. Enable **Test is enabled for this skill**
 3. Select **English (GB)** from the language drop-down list.
-4. Uncheck **Skill I/O**, **Device Log** and check **Echo Show Display**. Your screen should now look like
+4. Uncheck **Skill I/O**, **Device Log** and check **Echo Show Display** and.or **Echo Spot Display**. Your screen should now look like
 ![Simulator Start](../images/simulatorbegin.png)
 
 #### Use the simulator
