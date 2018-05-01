@@ -53,10 +53,10 @@ Each of you will work in the **same** Amazon developer account for building Alex
 * Password:  *Summ1t201@*
 
 ## Lab code
-You need local access to your lab code. To do so, clone or download this repository at https://git.corp.adobe.com/rmaur/summit-emea-lab-unlock-adobeio
+You need local access to your lab code. To do so, clone or download this repository at https://github.com/ridmaur/TL13.git. 
 
 ### Clone
-* Clone the repository, using `git clone https://git.corp.adobe.com/rmaur/summit-emea-lab-unlock-adobeio.git`
+* Clone the repository, using `git clone https://github.com/ridmaur/TL13.git`
 
 ### Download
 * Download the repository by clicking on **Clone or Download** and then click **Download ZIP**. Unzip the ZIP to a location on your Mac.
