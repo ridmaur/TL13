@@ -72,7 +72,7 @@ We also need to tell our skill what will be the interface (voice only, voice and
 Just to check on how we invoke our skill, check the invocation definition. To do this:
 1. Click on **Invocation**.
 2. It should read *adobe summit lab* as the Skill Invocation Name.
-3. Modify it to a skill invocation name, unique for your seat, e.g. `adobe summit seat zero one` (in case you are in sea 01). Note that an invocation name can only contain words.
+3. Modify it to a skill invocation name, unique for your seat, e.g. `adobe summit seat zero one` (in case you are in seat 01). Note that an invocation name can only contain words.
 
 
 ### Test Your Skill
@@ -105,8 +105,3 @@ Actually nothing, you've finished the lab :smile:. If you have time left, you ca
 * Figure out in the code how that picture is actually being retrieved from Adobe Campaign Standard and displayed in the simulator.
 
 Thank you for attending the lab. Hope you have enjoyed it.
-
-
-
-
-
