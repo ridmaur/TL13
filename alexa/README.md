@@ -73,6 +73,8 @@ Just to check on how we invoke our skill, check the invocation definition. To do
 1. Click on **Invocation**.
 2. It should read *adobe summit lab* as the Skill Invocation Name.
 3. Modify it to a skill invocation name, unique for your seat, e.g. `adobe summit seat zero one` (in case you are in seat 01). Note that an invocation name can only contain words.
+4. Click on **Save Model** and then on **Build Model** to rebuild the model.
+Wait until you see that the build is completed successfully. Then you're ready to test the skill.
 
 
 ### Test Your Skill
