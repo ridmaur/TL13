@@ -31,7 +31,7 @@ We need to edit our code for the action. Make sure you are in the *alexa* direct
 ```
 
 ### Create Action
-This action uses the Alexa SDK. Adobe I/O Runtime actions are limited to 1MB in size. Just incorporating the whole Alexa SDK in this action would not fit within that limitation so we use some advanced Javascript technology (e.g. webpack) to compress our final package. In order to do this submit the following command:
+This action uses the Alexa SDK. Adobe I/O Runtime actions are limited to 1MB in size. Just incorporating the whole Alexa SDK in this action would not fit within that limitation so we use some advanced Javascript technology (e.g. webpack) to compress our final package. In order to do this, ensure you are in the *alexa* directory and submit the following command:
 ```
 $ npm run build
 ```
