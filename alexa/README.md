@@ -68,12 +68,13 @@ We also need to tell our skill what will be the interface (voice only, voice and
 ![Interfaces](../images/interfaces.png)
 3. Click on **Save Interfaces** and then on **Build Model** to rebuild the model.
 
-#### Inspect Invocation
-Just to check on how we invoke our skill, check the invocation definition. To do this:
+#### Configure Invocation
+Final step is to configure how to invoke our skill. To do this:
 1. Click on **Invocation**.
 2. It should read *adobe summit lab* as the Skill Invocation Name.
-3. Modify it to a skill invocation name, unique for your seat, e.g. `adobe summit seat zero one` (in case you are in seat 01). Note that an invocation name can only contain words.
+3. Modify it to a skill invocation name, unique for your seat, e.g. `adobe summit seat zero one` (in case you are in seat 01). Note that an invocation name can only contain words and should be unique in order to guarantee it will invoke the right skill.
 4. Click on **Save Model** and then on **Build Model** to rebuild the model.
+
 Wait until you see that the build is completed successfully. Then you're ready to test the skill.
 
 
