@@ -21,7 +21,7 @@ Then we have to configure our Alexa skill to invoke our Adobe I/O Runtime action
 ### Get Your Skill Id
 We first need to figure out what will be our Amazon skill id. To do this:
 * Login to your Amazon Developer console.
-* Hover over **Your Alexa Consoles**, and then select **Skills**.
+* Hover over **Your Alexa Consoles**, and then select **Skills**. If you don't see **Your Alexa Console**, click on **Developer Console** and then on **Alexa Skills Kit**.
 * In the list of skills, find the **Adobe Summit Lab Seat XX** skill that belongs to your seat. Copy the skill id, by clicking on the copy icon left from the id underneath your skill.
 
 ### Modify Action
