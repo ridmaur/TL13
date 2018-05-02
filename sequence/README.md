@@ -11,7 +11,7 @@ The only requirement in our case is that the output of the first action (adding 
 ## Try It!
 
 ### Delete your contact and profile
-We have not made the lab fully bullet proof, so in case you create a contact and/or profile that already exists, things might fail to work. So to ensure we do not run into that scenario, ensure you delete your previously created contact in Hubspot CRM and previously created profile in Adobe Campaign Standard.
+We have not made the lab fully bullet proof, so in case you create a contact and/or profile that already exists, things might fail to work. So to ensure we do not run into that scenario, either ensure you delete your previously created contact in Hubspot CRM and previously created profile in Adobe Campaign Standard or use a different email address than what you've used before in the previous exercises.
 
 #### Delete Hubspot CRM Contact
 Go to Hubspot, click on your contact to go into the contact details screen. Click on the **Actions** button and in the submenu click on **Delete**. Confirm by clicking the **Delete** button once more.
@@ -55,7 +55,7 @@ If all goes well, you will see output like below:
 which is the actual output of the second action in our sequence, namely creating a profile in Adobe Campaign Standard.
 
 ### Check Hubspot and ACS
-Check both Hubspot and Adobe Campaign Standard. You should see your contact in Hubspot CRM and your profile in Adobe Campaign Standard. Also, you should see a CRM Id in Adobe Campaign Standard that has been automatically picked up from the output of the Hubspot action.
+Check both [Hubspot](https://app.hubspot.com) and [Adobe Campaign Standard](https://rob-in-der-maur-141117.campaign-demo.adobe.com). You should see your contact in Hubspot CRM and your profile in Adobe Campaign Standard. Also, you should see a CRM Id in Adobe Campaign Standard that has been automatically picked up from the output of the Hubspot action.
 
 ## What's Next?
 * [Exercise 5: Invoke Adobe I/O Runtime Actions through Alexa Skills](../alexa/)
