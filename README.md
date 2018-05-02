@@ -52,6 +52,12 @@ Each of you will work in the **same** Amazon developer account for building Alex
 * User name: *summit2018tl13@outlook.com* 
 * Password:  *Summ1t201@*
 
+### Outlook Email
+In case you need to recover passwords, they will be sent to Outlook Live inbox.
+* URL: https://outlook.live.com
+* User name: *summit2018tl13@outlook.com*
+* Password: *Summ1t201@*
+
 ## Lab code
 You need local access to your lab code. To do so, clone or download this repository at https://github.com/ridmaur/TL13.git. 
 
