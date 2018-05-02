@@ -92,7 +92,7 @@ It will show you output like below:
 
 
 ### Check Hubspot
-To check whether your contact has made it into Hubspot, go to the Hubspot. In Hubspot, click on **Contacts** at the top menu bar. You will see something like the screenshot below, and if all is ok, you will see your contact in the list:
+To check whether your contact has made it into Hubspot, go to [Hubspot](https://app.hubspot.com/). In Hubspot, click on **Contacts** at the top menu bar. You will see something like the screenshot below, and if all is ok, you will see your contact in the list:
 ![Hubspot Contacts](../images/hubspotcontact.png)
 
 ## Additional Info
