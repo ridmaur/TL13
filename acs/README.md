@@ -32,11 +32,11 @@ $ ok: created action seatXX/createprofile
 ```
 
 ### Invoke ACS Create Profile Action
-Go to your web browser and invoke the action by pointing to the following URL:
+In order to test whether the action works we will now use a browser. Go to a web browser on your lab machine and invoke the action by going to the URL below. Again, replace the part of the URL indicating your seat number (`XX`), as well as parameters like `<firstName>` with proper values. Also, ensure you will encode the parameters properly (e.g. use `%20` for spaces). And note that the parameters for `lastName` and `firstName` do have a capital `N`. Lower- and uppercase does matter...
 ```
 https://runtime.adobe.io/api/v1/web/summit-emea-lab-unlock-adobeio-namespace/seatXX/createprofile?email=<email>&firstName=<firstName>&lastName=<lastName>&cusCrmId=<custCrmId>
 ```
-Again, replace the part of the URL indicating your seat number (`XX`), as well as parameters like `<firstName>` with proper values. Also, ensure you will encode the parameters properly (e.g. use `%20` for spaces).
+
 You will not see anything appearing in the browser upon successful completion of this action. But if you do see an error, e.g like
 ```
 {
