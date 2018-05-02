@@ -47,7 +47,7 @@ code: 979155
 check the syntax of your URL. You might be pointing to an incorrect endpoint or there are some issues with your parameters.
 
 ### Check ACS
-To check whether your profile has made it into Adobe Campaign Standard, go to [ACS](https://rob-in-der-maur-141117.campaign-demo.adobe.com). In ACS, click on the Customer Profiles tile. You will see your profile, similar to what is shown in screenshot below:
+To check whether your profile has made it into Adobe Campaign Standard, go to [ACS](https://rob-in-der-maur-141117.campaign-demo.adobe.com). In ACS, click on the **Customer Profiles** tile. You will see your profile, similar to what is shown in screenshot below:
 ![ACS Profile](../images/acsprofile.png)
 
 ## What's Next?
