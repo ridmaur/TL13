@@ -18,6 +18,15 @@ After attending this lab, you will have an understanding of Adobe I/O’s capabi
 * We will combine both steps in a so-called sequence to experience how Adobe I/O can connect multiple actions that integrate with various solutions.
 * Finally, we will use Alexa skills that connect with Adobe I/O runtime to retrieve a contact from Adobe Campaign Standard using an Alexa Echo Show simulator. And finally, you can send yourself an SMS using that same simulator, again using the functionality of Adobe I/O runtime.
 
+## Lab code
+You need local access to the lab code. To do so, clone or download this repository at https://github.com/ridmaur/TL13.git. 
+
+### Clone
+* Clone the repository, using `git clone https://github.com/ridmaur/TL13.git`
+
+### Download
+* Download the repository by clicking on **Clone or Download** and then click **Download ZIP**. Unzip the ZIP to a location on your Mac.
+
 
 ## Environment
 For this lab, the following environments have been set up.\
@@ -58,14 +67,6 @@ In case you need to recover passwords, they will be sent to Outlook Live inbox.
 * User name: *summit2018tl13@outlook.com*
 * Password: *Summ1t201@*
 
-## Lab code
-You need local access to your lab code. To do so, clone or download this repository at https://github.com/ridmaur/TL13.git. 
-
-### Clone
-* Clone the repository, using `git clone https://github.com/ridmaur/TL13.git`
-
-### Download
-* Download the repository by clicking on **Clone or Download** and then click **Download ZIP**. Unzip the ZIP to a location on your Mac.
 
 ## Editor
 To edit code or configuration files, etc. you have access to **Adobe Brackets** (in your dock), but you can use any other editor available on your lab Mac (e.g. `vi`).
