@@ -52,8 +52,6 @@ Each of us will work in the **same** ACS environment. Details of this environmen
 * URL: https://rob-in-der-maur-141117.campaign-demo.adobe.com
 * User name: *summit2018tl13@outlook.com*
 * Password:  *Summ1t201@*
-* Adobe I/O Integration: *https://console.adobe.io/integrations/18499/41176/overview*, named *Summit EMEA Adobe I/O Lab*
-
 
 ### Amazon Alexa
 Each of you will work in the **same** Amazon developer account for building Alexa skills. Details of this environment:
