@@ -1,5 +1,5 @@
 # Getting Started with Adobe I/O Runtime
-This exercise describes how  yo can get started using Adobe I/O Runtime.
+This exercise describes how  you can get started using Adobe I/O Runtime.
 
 ## Objective
 The objective of this lab is to set you up and get you familiar with Adobe I/O Runtime
