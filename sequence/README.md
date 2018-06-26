@@ -36,7 +36,7 @@ you might have mistyped one of your actions that define the sequence.
 
 
 ### Invoke Your Sequence
-You invoke the sequence exactly the way you invoke an action. Actually, a sequence is nothing else than a new action composed of a sequence of two or more earlier defined actions. Again, ensure, once again, you replace seat number (`XX`) and placeholder values (like `<firstname>` etc.) in the example below with your actual values.  We will use the command line to invoke our sequence/action:
+You invoke the sequence exactly the way you invoke an action. Actually, a sequence is nothing else than a new action composed of a sequence of two or more earlier defined actions. Once again, ensure you replace seat number (`XX`) and placeholder values (like `<firstname>` etc.) in the example below with your actual values.  We will use the command line to invoke our sequence/action:
 ```
 wsk action invoke --result seatXX/createcontactandprofile --param email "<email>" --param firstname "<firstname>" --param lastname "<lastname>"
 ```
