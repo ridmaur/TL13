@@ -186,7 +186,7 @@ var mymain = function (event) {
                 fail: reject
             });
 
-            alexa.appId = "amzn1.ask.skill.<skill_id>"; // replace this with your unique skill id, associated with your seat
+            alexa.appId = "amzn1.ask.skill.<your_skill_id>"; // replace this with your unique skill id, associated with your seat
             alexa.resources = languageStrings;
             alexa.registerHandlers(handlers);
             return alexa.execute();
