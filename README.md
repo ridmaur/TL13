@@ -44,7 +44,7 @@ Each of us will work in the **same** Hubspot environment. Details of this enviro
 * URL: https://www.hubspot.com and https://api.hubspot.com
 * User name: *summit2018tl13@outlook.com*
 * Password:  *Summ1t201@*
-* API key: *cc20872a-3077-442f-94fb-f1f11bae2f89*
+* API key: *65b41a2c-f337-4255-9c54-c4a2316f24cb*
 
 
 ### ACS (Adobe Campaign Standard)
