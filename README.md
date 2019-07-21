@@ -1,5 +1,7 @@
 # Summit EMEA Lab TL13: Unlock IoT with Adobe I/O
 
+IMPORTANT: THE ENVIRONMENTS THIS LAB ARE REFERRING TO ARE NO LONGER AVAILABLE. HOWEVER ALL CONCEPTS STILL APPLY AND IF YOU SPIN UP YOUR OWN EQUIVALENT ENVIRONMENT YOU WILL STILL BE ABLE TO IMPLEMENT ALL STEPS OF THIS LAB.
+
 ## Introduction
 Real-time is becoming an omnipresent force in modern experience tech stack. The smarter the devices become, the more data and context they need to make complex real-time decisions. This requires a flexible, open and cost-efficient platform. Adobe I/O is Adobe’s unique platform to integrate, extend or create apps and experience based on Adobe’s products and solutions in your digital ecosystem. Adobe I/O has all the resources you need to create next-generation experiences that connect to your customers.
 
