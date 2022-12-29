@@ -13,7 +13,7 @@
   "devDependencies": {
     "isomorphic-fetch": "^2.2.1",
     "uglifyjs-webpack-plugin": "^1.2.2",
-    "webpack": "^3.11.0",
+    "webpack": "^5.75.0",
     "webpack-node-externals": "^1.6.0"
   },
   "dependencies": {
